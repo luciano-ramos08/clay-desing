@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "productName": "Hornito",
+    "productDescription": "Hornito de cerámica para aceites esenciales. Medidas de 12 cm de alto x 9 cm de diámetro.",
+    "productPrice": "$7.000",
+    "imagesrc": "../img/horno_vela.jpg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=24"
+  },
+  {
+    "id": 2,
+    "productName": "Porta velas",
+    "productDescription": "Porta velas de cerámica decorativa. Medidas de 10 cm de alto x 8 cm de diámetro.",
+    "productPrice": "$6.000",
+    "imagesrc": "../img/vela_gato.jpg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=25"
+  },
+  {
+    "id": 2,
+    "productName": "Porta sahumerios",
+    "productDescription": "Porta sahumerios de cerámica. Medidas de 22 cm de largo x 10 cm de ancho.",
+    "productPrice": "$4.500",
+    "imagesrc": "../img/sahumerios.jpg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=26"
+  },
+  {
+    "id": 3,
+    "productName": "Porta sahumerios",
+    "productDescription": "Porta sahumerios de cerámica con diseño de gato. Medidas de 22 cm de largo x 10 cm de ancho.",
+    "productPrice": "$5.500",
+    "imagesrc": "../img/sahumerio_gato.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=27"
+  },
+  {
+    "id": 3,
+    "productName": "Joyero",
+    "productDescription": "Joyero de cerámica en forma de yin y yang. Medidas de 12 cm de diámetro.",
+    "productPrice": "$4.500",
+    "imagesrc": "../img/joyero.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=28"
+  },
+  {
+    "id": 3,
+    "productName": "Servilletero",
+    "productDescription": "Servilletero floral de cerámica. Medidas de 10 cm de alto x 6 cm de ancho.",
+    "productPrice": "$8.000",
+    "imagesrc": "../img/servilletero.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=29"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "productName": "Posa - cubiertos",
+    "productDescription": "Posa-cubiertos de cerámica en forma de huevo frito. Medidas: 12 cm de diámetro.",
+    "productPrice": "$7.000",
+    "imagesrc": "../img/apoya_cubiertos.jpg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=36"
+  },
+  {
+    "id": 1,
+    "productName": "Servilletero",
+    "productDescription": "Servilletero de cerámica decorado con motivos florales. Medidas: 8 cm de alto x 10 cm de largo.",
+    "productPrice": "$8.000",
+    "imagesrc": "../img/servilletero.jpg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=37"
+  },
+  {
+    "id": 1,
+    "productName": "Huevera 'Farmhouse'",
+    "productDescription": "Huevera de cerámica para seis huevos con estilo rústico. Medidas: 15 cm de largo x 10 cm de ancho.",
+    "productPrice": "$11.000",
+    "imagesrc": "../img/huevera_cocina.jpg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=38"
+  },
+  {
+    "id": 1,
+    "productName": "Galletero",
+    "productDescription": "Galletero cuadrado de cerámica decorado con motivos naturales. Medidas: 12 cm de alto x 12 cm de ancho.",
+    "productPrice": "$13.000",
+    "imagesrc": "../img/galletero.jpg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=39"
+  }
+]
+

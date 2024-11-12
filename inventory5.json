@@ -1,0 +1,316 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Taza 'Hearts' 3D",
+      "description": "Taza artesanal con detalles en relieve de corazones en 3D. Medidas de 9 cm de alto x 8 cm de diámetro.",
+      "price": "$15.000",
+      "image": "../img/taza_corazon_3d.jpeg",
+      "productType": "taza"
+    },
+    {
+      "id": "2",
+      "name": "Taza 'Roll Film'",
+      "description": "Taza artesanal inspirada en un rollo de película fotográfica. Medidas de 10 cm de alto x 7 cm de diámetro.",
+      "price": "$20.000",
+      "image": "../img/taza_cine.jpeg",
+      "productType": "taza"
+    },
+    {
+      "id": "3",
+      "name": "Taza 'Smile'",
+      "description": "Taza con diseño de caras sonrientes. Medidas de 8 cm de alto x 7 cm de diámetro.",
+      "price": "$10.000",
+      "image": "../img/taza_smile.jpg",
+      "productType": "taza"
+    },
+    {
+      "id": "4",
+      "name": "Taza 'Rapunzel'",
+      "description": "Taza inspirada en la princesa Rapunzel con detalle decorativo del sol en relieve. Medidas de 8 cm de alto x 8 cm de diámetro.",
+      "price": "$23.000",
+      "image": "../img/taza_rapunzel.jpeg",
+      "productType": "taza"
+    },
+    {
+      "id": "5",
+      "name": "Taza 'Cat'",
+      "description": "Taza con diseño de gato en relieve. Medidas de 8,5 cm de alto x 8 cm de diámetro.",
+      "price": "$15.000",
+      "image": "../img/taza_gato.jpeg",
+      "productType": "taza"
+    },
+    {
+      "id": "6",
+      "name": "Taza 'Cloud'",
+      "description": "Taza con nubes en relieve y plato a juego. Medidas de 9 cm de alto x 7 cm de diámetro. Plato de 14 cm de diámetro.",
+      "price": "$25.000",
+      "image": "../img/taza_nubes.jpeg",
+      "productType": "taza"
+    },
+    {
+      "id": "7",
+      "name": "Plato 'Eat Me'",
+      "description": "Plato con la frase 'Eat Me' grabada. Medidas de 20 cm de diámetro.",
+      "price": "$25.000",
+      "image": "../img/plato_eat_me.jpg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "8",
+      "name": "Plato 'Sleeping Bear'",
+      "description": "Plato con diseño de oso durmiendo. Medidas de 19 cm de diámetro.",
+      "price": "$27.000",
+      "image": "../img/plato_bear.jpeg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "9",
+      "name": "Plato 'Love Yourself'",
+      "description": "Plato en forma de corazón con la inscripción 'Love Yourself'. Medidas de 18 cm de diámetro.",
+      "price": "$29.000",
+      "image": "../img/plato_love_yourself.jpg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "10",
+      "name": "Plato 'Bows'",
+      "description": "Plato con lazos en relieve. Medidas de 21 cm de diámetro.",
+      "price": "$15.000",
+      "image": "../img/plato_bows.jpg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "11",
+      "name": "Plato 'Blue Blossom'",
+      "description": "Plato con flores azules pintadas a mano. Medidas de 22 cm de diámetro.",
+      "price": "$27.000",
+      "image": "../img/plato_blue_flower.jpg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "12",
+      "name": "Plato 'Pink Petals'",
+      "description": "Plato con pétalos rosas pintados a mano. Medidas de 22 cm de diámetro.",
+      "price": "$23.000",
+      "image": "../img/plato_flower_circle.jpg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "13",
+      "name": "Plato 'Crimson'",
+      "description": "Plato con detalles florales en tonos carmesí. Medidas de 22 cm de diámetro.",
+      "price": "$23.000",
+      "image": "../img/plato_red_flower.jpg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "14",
+      "name": "Plato 'Golden Petal'",
+      "description": "Plato con pétalos dorados. Medidas de 22 cm de diámetro.",
+      "price": "$23.000",
+      "image": "../img/plato_yellow_flower.jpg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "15",
+      "name": "Set 'Bows'",
+      "description": "Set de platos y tazas con lazos en relieve. Platos de 21 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+      "price": "$30.000",
+      "image": "../img/set_bows2.jpeg",
+      "productType": "set"
+    },
+    {
+      "id": "16",
+      "name": "Set 'Bears'",
+      "description": "Set de plato y taza con osos en relieve. Plato de 20 cm de diámetro y taza de 8 cm de alto x 7 cm de diámetro.",
+      "price": "$30.000",
+      "image": "../img/set_bear.jpg",
+      "productType": "set"
+    },
+    {
+      "id": "17",
+      "name": "Set 'Cherry'",
+      "description": "Set de platos y tazas con diseño de cerezas. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+      "price": "$25.000",
+      "image": "../img/set_cherry.jpeg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "18",
+      "name": "Set 'Golden Blossoms'",
+      "description": "Set con detalles de flores doradas. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+      "price": "$25.000",
+      "image": "../img/set1.jpeg",
+      "productType": "Porcelana"
+    },
+    {
+      "id": "19",
+      "name": "Set 'Sunshine Blooms'",
+      "description": "Set de platos y tazas con flores de girasol. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+      "price": "$25.000",
+      "image": "../img/set2.jpeg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "20",
+      "name": "Set 'Pink Tulips'",
+      "description": "Set de platos y tazas decorado con tulipanes rosas. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+      "price": "$25.000",
+      "image": "../img/set3.jpeg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "21",
+      "name": "Set 'Pink Blooms'",
+      "description": "Set con flores rosadas pintadas a mano. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+      "price": "$25.000",
+      "image": "../img/set4.jpeg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "22",
+      "name": "Set 'Bright Blooms'",
+      "description": "Set con flores coloridas. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+      "price": "$25.000",
+      "image": "../img/set5.jpeg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "23",
+      "name": "Set 'Sweet Love'",
+      "description": "Set con diseño de corazones. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+      "price": "$25.000",
+      "image": "../img/set6.jpeg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "24",
+      "name": "Hornito",
+      "description": "Hornito de cerámica para aceites esenciales. Medidas de 12 cm de alto x 9 cm de diámetro.",
+      "price": "$7.000",
+      "image": "../img/horno_vela.jpg",
+      "productType": "taza"
+    },
+    {
+      "id": "25",
+      "name": "Porta velas",
+      "description": "Porta velas de cerámica decorativa. Medidas de 10 cm de alto x 8 cm de diámetro.",
+      "price": "$6.000",
+      "image": "../img/vela_gato.jpg",
+      "productType": "taza"
+    },
+    {
+      "id": "26",
+      "name": "Porta sahumerios",
+      "description": "Porta sahumerios de cerámica. Medidas de 22 cm de largo x 10 cm de ancho.",
+      "price": "$5.500",
+      "image": "../img/sahumerios.jpg",
+      "productType": "taza"
+    },
+    {
+      "id": "27",
+      "name": "Porta sahumerios",
+      "description": "Porta sahumerios de cerámica con diseño de gato. Medidas de 22 cm de largo x 10 cm de ancho.",
+      "price": "$5.500",
+      "image": "../img/sahumerio_gato.jpg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "28",
+      "name": "Joyero",
+      "description": "Joyero de cerámica en forma de yin y yang. Medidas de 12 cm de diámetro.",
+      "price": "$4.500",
+      "image": "../img/joyero.jpg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "29",
+      "name": "Servilletero",
+      "description": "Servilletero floral de cerámica. Medidas de 10 cm de alto x 6 cm de ancho.",
+      "price": "$8.000",
+      "image": "../img/servilletero.jpg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "30",
+      "name": "Organizador",
+      "description": "Organizador de baño. Medidas de 10 cm de alto x 7 cm de diámetro.",
+      "price": "$5.000",
+      "image": "../img/organizador_bath.jpg",
+      "productType": "taza"
+    },
+    {
+      "id": "31",
+      "name": "Jabonera 'Minimalista'",
+      "description": "Jabonera circular de cerámica con diseño minimalista en tonos neutros. Medidas de 12 cm de diámetro.",
+      "price": "$7.000",
+      "image": "../img/bandeja_bath.jpg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "32",
+      "name": "Set 'Waves'",
+      "description": "Set de baño de cerámica con diseño ondulado. Incluye porta cepillos y dispensador de jabón. Medidas: 10 cm de alto x 7 cm de diámetro.",
+      "price": "$12.000",
+      "image": "../img/bandeja_jabonera_bath.jpg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "33",
+      "name": "Set 'Stripes'",
+      "description": "Set de baño con patrón de rayas. Incluye porta cepillos y dispensador de jabón. Medidas: 10 cm de alto x 7 cm de diámetro.",
+      "price": "$12.000",
+      "image": "../img/set_bath_rayas.jpg",
+      "productType": "Aluminio"
+    },
+    {
+      "id": "34",
+      "name": "Set 'Classic'",
+      "description": "Set de baño en cerámica con diseño clásico en tonos tierra. Incluye porta cepillos, dispensador de jabón y jabonera. Medidas: 10 cm de alto x 7 cm de diámetro.",
+      "price": "$12.000",
+      "image": "../img/set_bath_aros.jpg",
+      "productType": "taza"
+    },
+    {
+      "id": "35",
+      "name": "Set de Baño",
+      "description": "Set de baño con diseño minimalista. Incluye porta cepillos, dispensador de jabón y jabonera. Medidas: 10 cm de alto x 7 cm de diámetro.",
+      "price": "$4.500",
+      "image": "../img/set_bath.jpg",
+      "productType": "taza"
+    },
+    {
+      "id": "36",
+      "name": "Posa - cubiertos",
+      "description": "Posa-cubiertos de cerámica en forma de huevo frito. Medidas: 12 cm de diámetro.",
+      "price": "$7.000",
+      "image": "../img/apoya_cubiertos.jpg",
+      "productType": "taza"
+    },
+    {
+      "id": "37",
+      "name": "Servilletero",
+      "description": "Servilletero de cerámica decorado con motivos florales. Medidas: 8 cm de alto x 10 cm de largo.",
+      "price": "$8.000",
+      "image": "../img/servilletero.jpg",
+      "productType": "taza"
+    },
+    {
+      "id": "38",
+      "name": "Huevera 'Farmhouse'",
+      "description": "Huevera de cerámica para seis huevos con estilo rústico. Medidas: 15 cm de largo x 10 cm de ancho.",
+      "price": "$11.000",
+      "image": "../img/huevera_cocina.jpg",
+      "productType": "taza"
+    },
+    {
+      "id": "39",
+      "name": "Galletero",
+      "description": "Galletero cuadrado de cerámica decorado con motivos naturales. Medidas: 12 cm de alto x 12 cm de ancho.",
+      "price": "$13.000",
+      "image": "../img/galletero.jpg",
+      "productType": "taza"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "productName": "Taza 'Hearts' 3D",
+    "productDescription": "Taza artesanal con detalles en relieve de corazones en 3D. Medidas de 9 cm de alto x 8 cm de diámetro.",
+    "productPrice": "$15.000",
+    "imagesrc": "../img/taza_corazon_3d.jpeg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=1"
+  },
+  {
+    "id": 2,
+    "productName": "Taza 'Roll Film'",
+    "productDescription": "Taza artesanal inspirada en un rollo de película fotográfica. Medidas de 10 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$18.000",
+    "imagesrc": "../img/taza_cine.jpeg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=2"
+  },
+  {
+    "id": 3,
+    "productName": "Set 'Bows'",
+    "productDescription": "Set de tazas y platos con diseño de lazos. Platos de 21 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$35.000",
+    "imagesrc": "../img/set_bows2.jpeg",
+    "productType": "set",
+    "productLink": "../html/productoinfo.html?id=15"
+  },
+  {
+    "id": 4,
+    "productName": "Set 'Cherry'",
+    "productDescription": "Set de tazas y platos con diseño de cerezas. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$35.000",
+    "imagesrc": "../img/set_cherry.jpeg",
+    "productType": "Porcelana",
+    "productLink": "../html/productoinfo.html?id=17"
+  }
+]

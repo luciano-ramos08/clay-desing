@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7,
+    "productName": "Plato 'Eat Me'",
+    "productDescription": "Plato con la frase 'Eat Me' grabada. Medidas de 20 cm de diámetro.",
+    "productPrice": "$25.000",
+    "imagesrc": "../img/plato_eat_me.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=7"
+  },
+  {
+    "id": 8,
+    "productName": "Plato 'Sleeping Bear'",
+    "productDescription": "Plato con diseño de oso durmiendo. Medidas de 19 cm de diámetro.",
+    "productPrice": "$27.000",
+    "imagesrc": "../img/plato_bear.jpeg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=8"
+  },
+  {
+    "id": 9,
+    "productName": "Plato 'Love Yourself'",
+    "productDescription": "Plato en forma de corazón con la inscripción 'Love Yourself'. Medidas de 18 cm de diámetro.",
+    "productPrice": "$29.000",
+    "imagesrc": "../img/plato_love_yourself.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=9"
+  },
+  {
+    "id": 10,
+    "productName": "Plato 'Bows'",
+    "productDescription": "Plato con lazos en relieve. Medidas de 21 cm de diámetro.",
+    "productPrice": "$27.000",
+    "imagesrc": "../img/plato_bows.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=10"
+  },
+  {
+    "id": 11,
+    "productName": "Plato 'Blue Blossom'",
+    "productDescription": "Plato con flores azules pintadas a mano. Medidas de 22 cm de diámetro.",
+    "productPrice": "$23.000",
+    "imagesrc": "../img/plato_blue_flower.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=11"
+  },
+  {
+    "id": 12,
+    "productName": "Plato 'Pink Petals'",
+    "productDescription": "Plato con pétalos rosas pintados a mano. Medidas de 22 cm de diámetro.",
+    "productPrice": "$23.000",
+    "imagesrc": "../img/plato_flower_circle.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=12"
+  },
+  {
+    "id": 13,
+    "productName": "Plato 'Crimson'",
+    "productDescription": "Plato con detalles florales en tonos carmesí. Medidas de 22 cm de diámetro.",
+    "productPrice": "$23.000",
+    "imagesrc": "../img/plato_red_flower.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=13"
+  },
+  {
+    "id": 14,
+    "productName": "Plato 'Golden Petal'",
+    "productDescription": "Plato con pétalos dorados. Medidas de 22 cm de diámetro.",
+    "productPrice": "$23.000",
+    "imagesrc": "../img/plato_yellow_flower.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=14"
+  }
+]

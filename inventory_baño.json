@@ -1,0 +1,56 @@
+[
+  {
+    "id": 6,
+    "productName": "Organizador",
+    "productDescription": "Organizador de baño. Medidas de 10 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$10.000",
+    "imagesrc": "../img/organizador_bath.jpg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=30"
+  },
+  {
+    "id": 6,
+    "productName": "Jabonera",
+    "productDescription": "Jabonera circular de cerámica con diseño minimalista en tonos neutros. Medidas de 12 cm de diámetro.",
+    "productPrice": "$7.000",
+    "imagesrc": "../img/bandeja_bath.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=31"
+  },
+  {
+    "id": 6,
+    "productName": "Set 'Waves'",
+    "productDescription": "Set de baño de cerámica con diseño ondulado. Incluye porta cepillos y dispensador de jabón. Medidas: 10 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$12.000",
+    "imagesrc": "../img/bandeja_jabonera_bath.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=32"
+  },
+  {
+    "id": 6,
+    "productName": "Set 'Stripes'",
+    "productDescription": "Set de baño con patrón de rayas. Incluye porta cepillos y dispensador de jabón. Medidas: 10 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$12.000",
+    "imagesrc": "../img/set_bath_rayas.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=33"
+  },
+  {
+    "id": 6,
+    "productName": "Set 'Classic'",
+    "productDescription": "Set de baño en cerámica con diseño clásico en tonos tierra. Incluye porta cepillos, dispensador de jabón y jabonera. Medidas: 10 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$12.000",
+    "imagesrc": "../img/set_bath_aros.jpg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=34"
+  },
+  {
+    "id": 6,
+    "productName": "Set de Baño",
+    "productDescription": "Set de baño con diseño minimalista. Incluye porta cepillos, dispensador de jabón y jabonera. Medidas: 10 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$12.000",
+    "imagesrc": "../img/set_bath.jpg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=35"
+  }
+]

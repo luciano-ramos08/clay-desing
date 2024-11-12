@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "catName": "Tazas",
+      "image": "img/taza_category.jpg",
+      "catLink": "html/cat_tazas.html"
+    },
+    {
+      "id": 5,
+      "catName": "Platos",
+      "image": "img/platos_category.jpg",
+      "catLink": "html/cat_platos.html"
+      },
+    
+    {
+      "id": 3,
+      "catName": "Sets",
+      "image": "img/set_category.jpg",
+      "catLink": "html/cat_sets.html"
+    },
+    {
+      "id": 6,
+      "catName": "Decoración",
+      "image": "img/deco_category (2).jpg",
+      "catLink": "html/cat_deco.html"
+    },
+    {
+      "id": 2,
+      "catName": "Cocina",
+      "image": "img/cocina_category.jpg",
+      "catLink": "html/cat_cocina.html"
+    },
+    {
+      "id": 4,
+      "catName": "Baño",
+      "image": "img/baño_category.jpg",
+      "catLink": "html/cat_baño.html"
+    }
+    
+]

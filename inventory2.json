@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "catName": "Tazas",
+      "image": "img/taza_category.jpg"
+    },
+    {
+      "id": 5,
+      "catName": "Platos",
+      "image": "img/platos_category.jpg"
+      },
+    
+    {
+      "id": 3,
+      "catName": "Sets",
+      "image": "img/set_category.jpg"
+    },
+    {
+      "id": 6,
+      "catName": "Decoración",
+      "image": "img/baño_category.jpg"
+    },
+    {
+      "id": 2,
+      "catName": "Cocina",
+      "image": "img/cocina_category.jpg"
+    },
+    {
+      "id": 4,
+      "catName": "Baño",
+      "image": "img/baño_category.jpg"
+    }
+    
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "productName": "Taza 'Hearts' 3D",
+    "productDescription": "Taza artesanal con detalles en relieve de corazones en 3D. Medidas de 9 cm de alto x 8 cm de diámetro.",
+    "productPrice": "$15.000",
+    "imagesrc": "../img/taza_corazon_3d.jpeg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=1"
+  },
+  {
+    "id": 2,
+    "productName": "Taza 'Roll Film'",
+    "productDescription": "Taza artesanal inspirada en un rollo de película fotográfica. Medidas de 10 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$20.000",
+    "imagesrc": "../img/taza_cine.jpeg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=2"
+  },
+  {
+    "id": 3,
+    "productName": "Taza 'Smile'",
+    "productDescription": "Taza con diseño de caras sonrientes. Medidas de 8 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$10.000",
+    "imagesrc": "../img/taza_smile.jpg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=3"
+  },
+  {
+    "id": 4,
+    "productName": "Taza 'Rapunzel'",
+    "productDescription": "Taza inspirada en la princesa Rapunzel con detalle decorativo del sol en relieve. Medidas de 8 cm de alto x 8 cm de diámetro.",
+    "productPrice": "$23.000",
+    "imagesrc": "../img/taza_rapunzel.jpeg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=4"
+  },
+  {
+    "id": 5,
+    "productName": "Taza 'Cat'",
+    "productDescription": "Taza con diseño de gato en relieve. Medidas de 8,5 cm de alto x 8 cm de diámetro.",
+    "productPrice": "$15.000",
+    "imagesrc": "../img/taza_gato.jpeg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=5"
+  },
+  {
+    "id": 6,
+    "productName": "Taza 'Cloud'",
+    "productDescription": "Taza con nubes en relieve y plato a juego. Medidas de 9 cm de alto x 7 cm de diámetro. Plato de 14 cm de diámetro.",
+    "productPrice": "$25.000",
+    "imagesrc": "../img/taza_nubes.jpeg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=6"
+  }
+]

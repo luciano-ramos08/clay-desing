@@ -1,0 +1,119 @@
+[
+  {
+    "id": 15,
+    "productName": "Set 'Bows'",
+    "productDescription": "Set de platos y tazas con lazos en relieve. Platos de 21 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$30.000",
+    "imagesrc": "../img/set_bows2.jpeg",
+    "productType": "set",
+    "productLink": "../html/productoinfo.html?id=15"
+  },
+  {
+    "id": 16,
+    "productName": "Set 'Bears'",
+    "productDescription": "Set de plato y taza con osos en relieve. Plato de 20 cm de diámetro y taza de 8 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$30.000",
+    "imagesrc": "../img/set_bear.jpg",
+    "productType": "set",
+    "productLink": "../html/productoinfo.html?id=16"
+  },
+  {
+    "id": 17,
+    "productName": "Set 'Cherry'",
+    "productDescription": "Set de platos y tazas con diseño de cerezas. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$25.000",
+    "imagesrc": "../img/set_cherry.jpeg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=17"
+  },
+  {
+    "id": 18,
+    "productName": "Set 'Golden Blossoms'",
+    "productDescription": "Set con detalles de flores doradas. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$25.000",
+    "imagesrc": "../img/set1.jpeg",
+    "productType": "Porcelana",
+    "productLink": "../html/productoinfo.html?id=18"
+  },
+  {
+    "id": 19,
+    "productName": "Set 'Sunshine Blooms'",
+    "productDescription": "Set de platos y tazas con flores de girasol. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$25.000",
+    "imagesrc": "../img/set2.jpeg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=19"
+  },
+  {
+    "id": 20,
+    "productName": "Set 'Pink Tulips'",
+    "productDescription": "Set de platos y tazas decorado con tulipanes rosas. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$25.000",
+    "imagesrc": "../img/set3.jpeg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=20"
+  },
+  {
+    "id": 21,
+    "productName": "Set 'Pink Blooms'",
+    "productDescription": "Set con flores rosadas pintadas a mano. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$25.000",
+    "imagesrc": "../img/set4.jpeg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=21"
+  },
+  {
+    "id": 22,
+    "productName": "Set 'Bright Blooms'",
+    "productDescription": "Set con flores coloridas. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$25.000",
+    "imagesrc": "../img/set5.jpeg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=22"
+  },
+  {
+    "id": 23,
+    "productName": "Set 'Sweet Love'",
+    "productDescription": "Set con diseño de corazones. Platos de 22 cm de diámetro y tazas de 8 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$25.000",
+    "imagesrc": "../img/set6.jpeg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=23"
+  },
+  {
+    "id": 33,
+    "productName": "Set 'Stripes'",
+    "productDescription": "Set de baño con patrón de rayas. Incluye porta cepillos y dispensador de jabón. Medidas: 10 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$12.000",
+    "imagesrc": "../img/set_bath_rayas.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=33"
+  },
+  {
+    "id": 32,
+    "productName": "Set 'Waves'",
+    "productDescription": "Set de baño de cerámica con diseño ondulado. Incluye porta cepillos y dispensador de jabón. Medidas: 10 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$12.000",
+    "imagesrc": "../img/bandeja_jabonera_bath.jpg",
+    "productType": "Aluminio",
+    "productLink": "../html/productoinfo.html?id=32"
+  },
+  {
+    "id": 34,
+    "productName": "Set 'Classic'",
+    "productDescription": "Set de baño en cerámica con diseño clásico en tonos tierra. Incluye porta cepillos, dispensador de jabón y jabonera. Medidas: 10 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$12.000",
+    "imagesrc": "../img/set_bath_aros.jpg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=34"
+  },
+  {
+    "id": 35,
+    "productName": "Set de Baño",
+    "productDescription": "Set de baño con diseño minimalista. Incluye porta cepillos, dispensador de jabón y jabonera. Medidas: 10 cm de alto x 7 cm de diámetro.",
+    "productPrice": "$12.000",
+    "imagesrc": "../img/set_bath.jpg",
+    "productType": "taza",
+    "productLink": "../html/productoinfo.html?id=35"
+  }
+]

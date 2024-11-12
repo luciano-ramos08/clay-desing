@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- font-->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet"> 
+        <title>Clay & Design</title>
+        <link rel="shortcut icon" href="img/icon.jpg" type="image/x-icon" class="fav-icon">
+
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
+    
+    
+        <body>
+            <div id="cover-ctn-search"></div>
+
+            <div class="intro">
+                <h1>Clay & Design</h1><br>
+            </div>
+
+            <header>
+                <nav>
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li class="nav-item">
+                            <a class="nav-link products-link" href="html/productos.html">Productos</a>
+                            <ul class="products-dropdown">
+                                <li class="dropdown-item"><a class="dropdown-link" href="html/cat_tazas.html">Tazas</a></li>
+                                <li class="dropdown-item"><a class="dropdown-link" href="html/cat_platos.html">Platos</a></li>
+                                <li class="dropdown-item"><a class="dropdown-link" href="html/cat_sets.html">Sets</a></li>
+                                <li class="dropdown-item"><a class="dropdown-link" href="html/cat_deco.html">Decoración</a></li>
+                                <li class="dropdown-item"><a class="dropdown-link" href="html/cat_cocina.html">Cocina</a></li>
+                                <li class="dropdown-item"><a class="dropdown-link" href="html/cat_baño.html">Baño</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#" onclick="openAboutModal()">Sobre nosotros</a></li>
+                        <li><a href="#contact" id="contactLink">Contacto</a></li>
+                    </ul>
+                </nav>
+                <div class="items">
+                    <a  href="html/carrito.html"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="bi bi-cart" viewBox="0 0 16 16">
+                        <path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5M3.102 4l1.313 7h8.17l1.313-7zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4m7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2m7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2"/>
+                    </svg></a>
+                    <a id="icon-search"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                        <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"/>
+                    </svg></a>
+                    <a class="open-form-link" onclick="openAlertFormLogin()"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16">
+                        <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
+                        <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1"/>
+                      </svg></a>
+                </div>
+            </header>
+
+            <div id="ctn-bars-search">
+                <input type="text" id="inputSearch" placeholder="¿Qué deseas buscar?">
+            </div>
+
+            <ul id="box-search">
+                <li><a href="html/cat_tazas.html"><i class="fas fa-search"></i>Tazas</a></li>
+                <li><a href="html/cat_platos.html"><i class="fas fa-search"></i>Platos</a></li>
+                <li><a href="html/cat_sets.html"><i class="fas fa-search"></i>Sets</a></li>
+                <li><a href="html/cat_baño.html"><i class="fas fa-search"></i>Baño</a></li>
+                <li><a href="html/cat_cocina.html"><i class="fas fa-search"></i>Cocina</a></li>
+                <li><a href="html/cat_deco.html"><i class="fas fa-search"></i>Decoracion</a></li>
+            </ul>
+
+        
+            
+            <section class="home">
+                <div class="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="img/banner_LE_auto_x2.jpg" alt="Producto A">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/cocina_category.jpg" alt="Producto B">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/taza_category.jpg" alt="Producto C">
+                        </div>
+                    </div>
+                    
+                </div>
+            </section>
+        
+            <section id="father3" class="productos" section-father >
+                <h2>New in</h2>
+                <template prod-template3 id="template3">  
+                    <div class="prod-item">
+                        <a href="#" class="prod-link" prod-link3>
+                            <img src="" alt=""  height="100" width="100" prod-img>
+                            <p class="precio" prod-precio></p>
+                            <h4 prod-nom></h4>
+                            <p class="desc" prod-desc></p>
+                        </a>
+                    </div>
+                </template>         
+            </section>
+
+            <section id="father2" class="categorias" section-father >
+                <h2>Categorías</h2>
+                <template cat-template id="template2">  
+                    <div class="category-item">
+                        <a href="" link-cat>
+                            <img src="" height="100" width="100" cat-img>
+                            <h4 category-name></h4>
+                        </a>
+                    </div>
+                </template>   
+            </section>
+        
+            <footer>
+                <div class="footer-content">
+                    <p>&copy; 2024 Clay & Design. Todos los derechos reservados.</p>
+                    <ul class="footer-links">
+                        <li>Política de Privacidad</li>
+                        <li>Términos de Servicio</li>
+                        <li>Contacto</li>
+                    </ul>
+                </div>
+            </footer>
+        
+            <!-- Modal de contacto -->
+            <div id="modal" class="modal">
+                <div class="modal-content">
+                    <span class="close">&times;</span>
+                    <h2 class="form-title">Formulario de contacto</h2>
+                    <form id="contactForm">
+                        <label class="contact-label" for="name">Nombre:</label>
+                        <input type="text" id="name" name="name" required>
+                        <label class="contact-label" for="surname">Apellido:</label>
+                        <input type="text" id="surname" name="surname" required>
+                        <label class="contact-label" for="email">Email:</label>
+                        <input type="email" id="email" name="email" required>
+                        <label class="contact-label" for="num">Teléfono:</label>
+                        <input type="text" id="num" name="num" required>
+                        <label class="contact-label" for="message">Mensaje:</label>
+                        <textarea id="message" name="message" required></textarea>
+                        <button class="submit" type="submit">Enviar</button>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Modal de Sobre Nosotros -->
+            <div id="aboutModal" class="modal about-modal">
+                <div class="modal-content about-modal-content">
+                    <h2 class="form-title">¿Quiénes somos?</h2>
+                    <span class="close" onclick="closeAboutModal()">&times;</span>
+                    <p>¡Bienvenido a nuestro emprendimiento! En Clay & Design, nos dedicamos a crear piezas únicas y artesanales que combinan funcionalidad y estética. Cada artículo es cuidadosamente diseñado y elaborado a mano, utilizando técnicas tradicionales y materiales de alta calidad. Nuestro objetivo es ofrecer productos que no solo embellezcan tu hogar, sino que también cuenten una historia. Desde vajillas elegantes hasta decoraciones inspiradoras, cada pieza refleja nuestra pasión por el arte de la cerámica. Acompáñanos en este viaje creativo y descubre cómo nuestros artículos pueden transformar tu espacio y añadir un toque de calidez y originalidad a tu vida.</p>
+                </div>
+            </div>
+           
+            <!-- Modal de Login -->
+            <div id="modalLogin" class="modal-overlay">
+                <div class="modal-container">
+                    <span class="close-button" onclick="closeModal()">&times;</span>
+                    <h2 class="form-header">Formulario de Registro</h2>
+                    <form id="registrationForm" class="form" onsubmit="handleSubmit(event)">
+                        <label for="name" class="form-label">Nombre:</label>
+                        <input type="text" id="name" name="name" class="form-input" required>
+                        
+                        <label for="surname" class="form-label">Apellido:</label>
+                        <input type="text" id="surname" name="surname" class="form-input" required>
+                        
+                        <label for="username" class="form-label">Nombre de Usuario:</label>
+                        <input type="text" id="username" name="username" class="form-input" required>
+                        
+                        <label for="email" class="form-label">Gmail:</label>
+                        <input type="email" id="email" name="email" class="form-input" required>
+        
+                        <button class="submit-button" type="submit">Enviar</button>
+                    </form>
+                </div>
+            </div>
+    
+        
+            <script src="./js/script.js"></script>
+    </body>
+
+</html>
